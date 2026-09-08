@@ -43,7 +43,7 @@ export const projects = [
   },
   {
     title: 'Aplikasi Kuis Berbasis Web',
-    tag: 'Proyek Team',
+    tag: 'Proyek Tim',
     image: '/assets/projects/quiz-app.webp',
     alt: 'Tampilan dashboard aplikasi kuis berbasis web',
     description:
@@ -52,7 +52,7 @@ export const projects = [
   },
   {
     title: 'Sistem Kasir Futsal',
-    tag: 'Proyek Team',
+    tag: 'Proyek Tim',
     image: '/assets/projects/kasir-futsal.webp',
     alt: 'Dashboard kasir sistem booking futsal',
     description:
@@ -61,7 +61,7 @@ export const projects = [
   },
   {
     title: 'Portal Informasi BNN Kota Bandung',
-    tag: 'Proyek Team',
+    tag: 'Proyek Tim',
     image: '/assets/projects/bnn-portal.webp',
     alt: 'Portal informasi Badan Narkotika Nasional Kota Bandung',
     description:
