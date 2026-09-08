@@ -93,12 +93,12 @@ export const timeline = [
 
 export const musicHighlights = [
   {
-    image: '/assets/music/band-stage.webp',
+    image: '/assets/music/band-stage.png',
     alt: 'Tampil bermain drum di atas panggung',
     caption: 'Pagelaran Seni Budaya — bareng The Kacrut',
   },
   {
-    image: '/assets/music/gigs-night.webp',
+    image: '/assets/music/gigs-night.png',
     alt: 'Tampil bareng band di panggung indoor',
     caption: 'EcoFest — gigs di kampus',
   },
