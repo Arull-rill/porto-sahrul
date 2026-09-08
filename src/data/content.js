@@ -24,7 +24,7 @@ export const facts = [
 ]
 
 export const featuredProject = {
-  tag: 'Proyek klien',
+  tag: 'Proyek Mandiri',
   title: 'Website The Kacrut',
   description:
     'Website resmi untuk band The Kacrut, dibangun pakai Laravel dengan nuansa gelap bergaya gothic-gold. Dilengkapi admin CMS sendiri untuk mengelola tautan, jadwal manggung, kategori konten, dan link sosial media — jadi kliennya bisa update sendiri tanpa perlu sentuh kode.',
@@ -34,7 +34,7 @@ export const featuredProject = {
 export const projects = [
   {
     title: 'TalkEd',
-    tag: 'Proyek mandiri',
+    tag: 'Proyek Mandiri',
     image: '/assets/projects/talked.webp',
     alt: 'Tampilan beranda aplikasi forum TalkEd',
     description:
@@ -43,7 +43,7 @@ export const projects = [
   },
   {
     title: 'Aplikasi Kuis Berbasis Web',
-    tag: 'Proyek mandiri',
+    tag: 'Proyek Team',
     image: '/assets/projects/quiz-app.webp',
     alt: 'Tampilan dashboard aplikasi kuis berbasis web',
     description:
@@ -52,7 +52,7 @@ export const projects = [
   },
   {
     title: 'Sistem Kasir Futsal',
-    tag: 'Proyek mandiri',
+    tag: 'Proyek Team',
     image: '/assets/projects/kasir-futsal.webp',
     alt: 'Dashboard kasir sistem booking futsal',
     description:
@@ -61,7 +61,7 @@ export const projects = [
   },
   {
     title: 'Portal Informasi BNN Kota Bandung',
-    tag: 'Proyek web',
+    tag: 'Proyek Team',
     image: '/assets/projects/bnn-portal.webp',
     alt: 'Portal informasi Badan Narkotika Nasional Kota Bandung',
     description:
