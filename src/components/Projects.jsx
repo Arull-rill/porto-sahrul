@@ -14,6 +14,7 @@ export default function Projects() {
 
         <div className="section-content reveal" ref={revealRef}>
           {/* Featured project — no screenshot, strongest credential (real client work) */}
+          {/* Featured project — real client work */}
           <article className="project-feature">
             <div className="feature-copy">
               <span className="project-tag">{featuredProject.tag}</span>
@@ -25,13 +26,15 @@ export default function Projects() {
                 ))}
               </ul>
             </div>
-            <div className="feature-visual" aria-hidden="true">
+            <div className="feature-visual">
               <div className="feature-visual-inner">
-                <span className="feature-visual-label">CMS Admin</span>
-                <div className="fv-row"><span></span><span className="fv-bar" style={{ width: '72%' }}></span></div>
-                <div className="fv-row"><span></span><span className="fv-bar" style={{ width: '45%' }}></span></div>
-                <div className="fv-row"><span></span><span className="fv-bar" style={{ width: '88%' }}></span></div>
-                <div className="fv-row"><span></span><span className="fv-bar" style={{ width: '60%' }}></span></div>
+                <img
+                  src={featuredProject.image}
+                  alt={featuredProject.alt}
+                  loading="lazy"
+                  width="900"
+                  height="509"
+                />
               </div>
             </div>
           </article>
