@@ -26,6 +26,8 @@ export const facts = [
 export const featuredProject = {
   tag: 'Proyek Mandiri',
   title: 'Website The Kacrut',
+  image: '/assets/projects/kacrut.png',
+  alt: 'Tampilan beranda website The Kacrut',
   description:
     'Website resmi untuk band The Kacrut, dibangun pakai Laravel dengan nuansa gelap bergaya gothic-gold. Dilengkapi admin CMS sendiri untuk mengelola tautan, jadwal manggung, kategori konten, dan link sosial media — jadi kliennya bisa update sendiri tanpa perlu sentuh kode.',
   tech: ['Laravel', 'MySQL', 'Admin CMS', 'Vanilla JS'],
